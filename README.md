@@ -1,6 +1,6 @@
 # <h1 align="center">NEAR Stake Wars III</h1>
 
-<h1 align="center">NEAR Stake Wars III için Validatör Kurulum Rehberine hoşgeldiniz. Kuruluma geçmeden önce NEAR Stake Wars hakkında bilgi vermek istiyorum. </h1>  
+<h1 align="center">NEAR Stake Wars III Validatör Kurulumu. Kuruluma geçmeden önce NEAR Stake Wars hakkında bilgi edinelim. </h1>  
 
 ![stakewars3-social](https://user-images.githubusercontent.com/101462877/180663821-187214c4-7ac5-4b15-8c5a-0ca6a8d21dd9.png)
 
