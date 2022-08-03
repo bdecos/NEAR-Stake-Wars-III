@@ -283,7 +283,7 @@ git fetch
 
 # Ardından bu kodla devam ediyoruz:
 ```
-git checkout 0f81dca95a55f975b6e54fe6f311a71792e21698
+git checkout 68bfa84ed1455f891032434d37ccad696e91e4f5
 ```
 
 # Şimdi ise klonladığımız `nearcore`'u çalıştıracağız, bu kodun çalışması biraz uzun sürebilir:
